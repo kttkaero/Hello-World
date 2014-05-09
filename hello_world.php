@@ -1,0 +1,3 @@
+<?php
+	scho "Hello World!";
+?>
